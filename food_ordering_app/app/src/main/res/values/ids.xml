@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layout_search" type="id">layout_search</item>
+    <item name="layout_bottom" type="id">layout_bottom</item>
+</resources>

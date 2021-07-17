@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">food ordering app</string>
+    <string name="fast_and">Fast and</string>
+    <string name="delicious_food">Delicious Food</string>
+
+    <string name="search">Search...</string>
+    <string name="todo">TODO</string>
+
+</resources>

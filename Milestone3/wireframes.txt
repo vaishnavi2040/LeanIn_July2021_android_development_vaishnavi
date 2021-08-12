@@ -1,0 +1,2 @@
+two different wireframes one with buttons which change color on touching 
+second with navigation bar  with responsive camera

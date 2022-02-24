@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">birthday app</string>
-    <string name="vaish">vaish</string>
-    <string name="enter_name">enter name</string>
-    <string name="name">Name</string>
-    <string name="click_to_create_wish">click to create wish</string>
-    <string name="textview">TextView</string>
-</resources>

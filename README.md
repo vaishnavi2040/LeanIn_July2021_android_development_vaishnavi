@@ -1,1 +1,1 @@
-# LeanIn_July2021_android_development_vaishnavi
+# Android Simple Projects
